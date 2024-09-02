@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EzrhyalXiao
 - 👀 I’m interested in quantitative finance, data science, machine learning and optimization
 - 💞️ B.A in Finance, B.S in Applied Mathematics, Hongyi Honor College, Wuhan University
-- 📫 How to reach me: 13720307567@163.com
+- 📫 How to reach me: 2020302131253@whu.edu.com
 - 😄 Pronouns: he/him
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO 
 - 🌱 Motto: Just as long ago, the enduring stars shone across thirteen provinces.
