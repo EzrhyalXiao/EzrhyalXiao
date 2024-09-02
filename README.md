@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeanderXiao
+- 👋 Hi, I’m @ZephyrXiao
 - 👀 I’m interested in quantitative finance, data science, machine learning and optimization
 - 💞️ B.A in Finance, B.S in Applied Mathematics, Hongyi Honor College, Wuhan University
 - 📫 How to reach me: 2020302131253@whu.edu.com
