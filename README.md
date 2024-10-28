@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzrhyalXiao
-- 👀 I’m interested in quantitative finance, data science, machine learning and optimization
+- 👀 Quantitative Finance, Data Science, Machine Learning and Optimization
 - 💞️ B.Econ in Finance, B.S in Mathematics and Applied Mathematics, Hongyi Honor College, Wuhan University
 - 📫 How to reach me: 2020302131253@whu.edu.com
 - 😄 Pronouns: he/him
