@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EzrhyalXiao
 - 💞️ B.Econ in Finance, B.S in Mathematics and Applied Mathematics, Hongyi Honor College, Wuhan University
-- 📫 How to reach me: 2020302131253@whu.edu.com
+- 👀 Programming: Python, C++, Matlab, R, Stata, SQL, Redis, Mongodb
 - 😄 Pronouns: he/him
+- 📫 How to reach me: 2020302131253@whu.edu.com
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO 
 - 🌱 Motto: Just as long ago, the enduring stars shone across thirteen provinces.
