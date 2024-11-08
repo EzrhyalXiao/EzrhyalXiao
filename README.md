@@ -7,6 +7,7 @@
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO 
 - 🌱 Motto: Just as long ago, the enduring stars shone across thirteen provinces.
 
+
 <div align="center" >
 <a  href="https://github.com/EzrhyalXiao">
 
@@ -15,3 +16,10 @@
 <img src="https://raw.githubusercontent.com/EzrhyalXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/EzrhyalXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
