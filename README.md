@@ -12,7 +12,7 @@
 - 💞️ 24' Finance & Applied Mathematics @ WHU
 - 💬 Quantitative Research Intern @ Chainup Pte. Ltd.
 - 😄 Pronouns: he/him
-- 📫 How to reach me: 2020302131253@whu.edu.com
+- 📫 Email: 2020302131253@whu.edu.com
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO
 
 <p align="center">
