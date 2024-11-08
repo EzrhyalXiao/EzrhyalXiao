@@ -15,7 +15,12 @@
 - 📫 How to reach me: 2020302131253@whu.edu.com
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Readme Quotes">
+  </a>
+</p>
+
 
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
