@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/EzrhyalXiao/EzrhyalXiao/refs/heads/output/github-contribution-grid-snake.svg)
+
 - 👋 Hi, I’m @EzrhyalXiao
 - 💞️ B.Econ in Finance, B.S in Mathematics and Applied Mathematics, Hongyi Honor College, Wuhan University
 - 🌬️ LinkedIn URL: https://www.linkedin.com/in/larssenxiao
