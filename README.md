@@ -7,7 +7,6 @@
 - ⚡ Interest: Piano, Go, Badminton, LOLm, CSGO 
 - 🌱 Motto: Just as long ago, the enduring stars shone across thirteen provinces.
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   my-skils -->
 
