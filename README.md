@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=ADD8E6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+folks!;I'm+Haotian+Xiao%2C+a+new+graduate+from+WHU+%E2%9C%A9" width="90%" />
 <br><br>
 
-![](https://raw.githubusercontent.com/EzrhyalXiao/EzrhyalXiao/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/HtXiao/HtXiao/refs/heads/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -48,9 +48,9 @@ graph TD;
 
 <a  href="https://github.com/EzrhyalXiao">
 
-<img src="https://raw.githubusercontent.com/EzrhyalXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/EzrhyalXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/EzrhyalXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/HtXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/HtXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/HtXiao/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 <div align="center">
@@ -65,4 +65,4 @@ graph TD;
 
 ## 🔍  Where to find me
 
-<p><a href="https://github.com/EzrhyalXiao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/THESHY___X" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/larssenxiao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/HtXiao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/THESHY___X" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/larssenxiao" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
